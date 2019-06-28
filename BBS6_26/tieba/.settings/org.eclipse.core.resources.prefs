@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/head.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/cn/edu/hainu/dao/impl/PhotoDaoImpl.java=UTF-8
+encoding//src/cn/edu/hainu/filter/AdminFilter.java=UTF-8
+encoding//src/cn/edu/hainu/filter/CommentFilter.java=UTF-8
+encoding//src/cn/edu/hainu/filter/MemberFilter.java=UTF-8
